@@ -4,6 +4,6 @@
 🧠 I enjoy learning about coding, networks, cybersecurity...  
 🚀 Always learning, always building  
 📫 Contact me at: aliouthiam1114@gmail.com  
-🌐 Check out my portfolio: https://at8tech.github.io/Aliou-Thiam-Portfolio/
+🌐 Check out my portfolio: [here](https://at8tech.github.io/Aliou-Thiam-Portfolio/)
 
 **PEACE**
