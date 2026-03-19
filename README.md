@@ -1,6 +1,18 @@
-# 💫 About Me:
-👋 Hi there, I'm Aliou! I'm a student with a serious passion for Information Technology 💻 and everything that makes computers tick. I love diving deep into the world of coding 👨‍💻 to build and create, and I'm fascinated by the intricacies of networks 🌐 that connect us all. My curiosity also drives me to explore cybersecurity 🛡️—keeping systems safe is a thrilling challenge! Finally, I'm constantly learning about AI 🧠 and the incredible potential of artificial intelligence. I'm always ready for the next technological adventure! 🚀
+# 💫 About Me
+I'm passionate about Information Technology 💻, with a strong focus on **Artificial Intelligence** 🧠 and its potential to transform the world. I enjoy coding 👨‍💻, exploring networks 🌐, and learning cybersecurity 🛡️—always ready to build, learn, and innovate 🚀
 
-🌐 Check out my portfolio: [here](https://at8tech.github.io/Aliou-Thiam-Portfolio/)
+#  🛠 Tools 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
+</p>
+
+🌐 Check out my portfolio [here](https://at8tech.github.io/Aliou-Thiam-Portfolio/)
+
 
 **PEACE**
