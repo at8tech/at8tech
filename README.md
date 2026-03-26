@@ -12,7 +12,7 @@ I'm passionate about Information Technology 💻, with a strong focus on **Artif
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
 </p>
 
-🌐 Check out my portfolio [here](https://at8tech.github.io/Aliou-Thiam-Portfolio/)
+🌐 Check out my portfolio [here](https://aliou-thiam.vercel.app/)
 
 
 **PEACE**
